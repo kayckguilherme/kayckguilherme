@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @kayckguilherme
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi sou gato bot
+- 👀 Estou interessado em aprender a configurar
+- 🌱 Estou aprendendo a configurar bots
+- 💞️ Estou procurando colaborar em casa para vc
+- 📫 meu numero problemas me liga 3185245955
 
 <!---
-kayckguilherme/kayckguilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+kayckguilherme/kayckguilherme é um ✨ especial ✨ 
